@@ -1,0 +1,7 @@
+streamlit
+pandas
+dotenv
+groq
+streamlit_js_eval
+fpdf 
+requests

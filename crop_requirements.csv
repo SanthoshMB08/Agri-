@@ -1,0 +1,13 @@
+Crop,Ideal_Moisture_Level (%),Preferred_Soil_Types,Temperature_Range (°C),Rainfall_Need (mm/year),Temp_Min,Temp_Max
+Rice,35,"Clay, Loam",20–35,1200–1500,20,35
+Wheat,20,"Loam, Clay Loam",10–25,750–1000,10,25
+Maize,25,"Loam, Sandy Loam",18–27,500–800,18,27
+Sugarcane,45,"Alluvial, Loam",20–38,1500–2500,20,38
+Cotton,20,Black Soil,21–30,600–800,21,30
+Groundnut,15,Sandy Loam,21–35,500–1000,21,35
+Ragi,20,Red Soil,20–30,700–1000,20,30
+Pulses,18,Loamy,20–30,600–1000,20,30
+Tea,60,Lateritic,14–27,2000–3000,14,27
+Coffee,55,Lateritic,15–30,1500–2500,15,30
+Millets,18,"Sandy Loam, Red Soil",22–32,400–1000,22,32
+Jowar,22,Black Soil,20–30,600–800,20,30

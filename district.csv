@@ -1,0 +1,31 @@
+DistrictName,Moisture_Percentage,Soil_Type
+CHIKMAGALUR,19,Black
+CHITRADURGA,18,Black
+MANDYA,20,Red
+BELLARY,15,Black
+MYSORE,23,"Red,Black"
+CHAMRAJNAGAR,21,
+SHIMOGA,17,Red
+KODAGU,22,Lateritic
+TUMKUR,18,Red
+BELGAUM,17,Black
+GADAG,16,Black
+RAICHUR,12,Black
+UDUPI,13,"Lateritic,Alluvial"
+UTTARA KANNADA,19,Lateritic
+BANGALORE RURAL,23,Red
+HASSAN,18,"Lateritic,Red"
+BAGALKOT,14,Black
+HAVERI,22,Black
+BIJAPUR,19,Black
+DAVANAGERE,22,Loam
+CHIKKABALLAPURA,17,Clay
+KOLAR,17,Red
+DHARWAD,19,Black
+BIDAR,21,"Black,Lateritic"
+RAMANAGARA,16,Red
+KOPPAL,10,Black
+GULBARGA,23,Black
+Bengaluru Urban,17,Red
+YADGIR,16,Black
+DAKSHINA KANNADA,14,"Lateritic,Alluvial"
